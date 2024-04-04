@@ -22,4 +22,10 @@ function startTimer(durationInSeconds) {
 }
 
 rtTimer(durationInSeconds);
+// Set the duration of the timer in seconds
+const durationInSeconds = 10;
+
+// Start the timer
+console.log('Timer started.');
+sta
 
